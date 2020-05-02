@@ -7,3 +7,5 @@ Hi This is Machine 2
 Hi This is Machine 1
 
 Hi This is Machine 2
+
+Hi This is Machine 2 Third Commit
